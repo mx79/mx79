@@ -1,9 +1,11 @@
 Hi, I'm Max Lesage 👋
+
 Computer Engineer & Solutions Architect | Acting CTO
 
 I am a graduate Computer Engineer with 6 years of intensive programming and architectural experience. I specialize in managing the entire product lifecycle—from designing complex system architectures and cloud infrastructure to building high-performance, user-centric interfaces.
 
 📍 Currently operating 100% remotely from Managua, Nicaragua for international clients.
+
 🚀 Featured Strategic Projects (Acting CTO)
 
 I act as a technical partner and architect for high-stakes projects, overseeing everything from initial system design to final production deployment.
