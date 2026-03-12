@@ -51,16 +51,17 @@ FlyWAB – Governmental IoT & Drone Platform
 - Modern AI Workflow: I maintain a high-velocity development environment by deeply integrating AI tools like Zed IDE and Claude Code into my daily architecture and coding sessions.
 
 🧪 R&D & Side Projects
+
 Pagix.ai
 
-A "no-infrastructure" fullstack engine exploring the limits of the Cloudflare ecosystem. Inspired by modern app builders, it aims to provide automated architecture and a seamless developer experience (DX) for complex applications.
+- A "no-infrastructure" fullstack engine exploring the limits of the Cloudflare ecosystem. Inspired by modern app builders, it aims to provide automated architecture and a seamless developer experience (DX) for complex applications.
 🧠 Engineering Philosophy
 
-- Product Over Marketing: I have consciously abstained from using LinkedIn for the past two years to focus entirely on engineering excellence and product delivery.
+Product Over Marketing: I have consciously abstained from using LinkedIn for the past two years to focus entirely on engineering excellence and product delivery.
 
-- Private by Default: Most of my work is hosted in private repositories for client confidentiality and governmental security.
+Private by Default: Most of my work is hosted in private repositories for client confidentiality and governmental security.
 
-- Results-Driven: I prioritize technical excellence and tangible business results over personal branding.
+Results-Driven: I prioritize technical excellence and tangible business results over personal branding.
 
 📫 Get in Touch
 
