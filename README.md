@@ -7,6 +7,7 @@ I am a graduate Computer Engineer with 6 years of intensive programming and arch
 🚀 Featured Strategic Projects (Acting CTO)
 
 I act as a technical partner and architect for high-stakes projects, overseeing everything from initial system design to final production deployment.
+
 cDESP – Industrial Refrigeration SaaS
 
 - Role: Lead Architect & Partner.
