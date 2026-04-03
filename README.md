@@ -1,6 +1,6 @@
 Hi, I'm Max Lesage 👋
 
-Computer Engineer & Solutions Architect | Acting CTO
+Software Engineer | Expert Cloudflare & AI | Acting CTO
 
 I am a graduate Computer Engineer with 6 years of intensive programming and architectural experience. I specialize in managing the entire product lifecycle—from designing complex system architectures and cloud infrastructure to building high-performance, user-centric interfaces.
 
