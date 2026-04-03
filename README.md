@@ -65,8 +65,8 @@ Results-Driven: I prioritize technical excellence and tangible business results 
 
 📫 Get in Touch
 
-- WhatsApp: +33 6 51 86 71 84 (WhatsApp Only) 
+- WhatsApp: +33 6 12 82 51 62 (WhatsApp Only) 
 
-- Email: lesage.max@sfr.fr 
+- Email: max@pagix.ai
 
 - Website: maxlesage.com
